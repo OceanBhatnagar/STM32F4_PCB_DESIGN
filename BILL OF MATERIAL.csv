@@ -1,0 +1,14 @@
+,Name,Description,Designator,Part Number,Price,Qty
+,BMP280,SENSOR PRESSURE ABS,BMP,,,1
+,"100n, 18p, 0.1u, 10nF, 2.2nF",,"C_G?, C_IMU1, C_IMU2, C_IMU3, C_NRST, C_USB1, C_USB2, C_USB3, C-IMU4, C1, C2, C3, C4, C5, C7, C8",,,16
+,2.2uf 16v 10%,Demo,"C_VCAP, C6",,,2
+,GREEN_LED,LED GREEN 0603 SMD,D_GREEN?,,,1
+,HSMS-C190,"LED Uni-Color Red, 52 mW, 20 mA, -40 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel",DS?,,,1
+,BLM15AG102SN1D,"Chip Ferrite Bead, 0402, 1000Ω @ 100MHz, 0.65Ω, 25%, 300mA",FB?,,,1
+,MPU-6050,"3-Axis Gyroscope, Accelerometer and a Digital Motion Processor(TM) (DMP), 2.375 to 3.46 V, -40 to 85 degC, 24-Pin QFN, RoHS, Tape and Reel",IMU,,,1
+,22-27-2061,CONN HEADER VERT 6POS 2.54MM,J?,,,1
+,STM32F411CEU6,"ARM Cortex-M4 32-bit MCU+FPU, 512 KB Flash, 128 KB RAM, 36 I/Os, 48-Pin UFQFPN, -40 to 85 degC, Tray",MCU,,,1
+,Resistor 10k +/-1% 0603 100 mW,"Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)","R_BOOT?, R_GREEN?, R_LED?, R_OSC?, R_SCL?, R_SCL2, R_SDA?, R_SDA2, R?",,,9
+,AMS1117-3.3,"LDO Voltage Regulators 1A, 3.3V",U?,,,1
+,473460001,CONN RCPT USB2.0 MICRO B SMD R/A,USB,,,1
+,7M-24.000MAAE-T,"Crystal 24MHz, 30ppm, 12pF, 50Ω",Y?,,,1
